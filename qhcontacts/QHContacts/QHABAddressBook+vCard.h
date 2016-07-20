@@ -13,6 +13,6 @@
 + (id)vcardStringToAddressBook:(NSString *)vCard;
 
 - (NSString*)vcardString;
-- (BOOL)updataAddressBookByVcardString:(NSString *)vCard;
+- (BOOL)updateAddressBookByVcardString:(NSString *)vCard;
 
 @end
